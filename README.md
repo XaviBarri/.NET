@@ -1,3 +1,3 @@
 # .NET
 
-dotnet new console -o <program-name>
+dotnet new console -o \<program-name\>
